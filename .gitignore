@@ -10,3 +10,6 @@ server/.env
 server/node_modules
 server/dist
 server/build
+node_modules
+.idea
+.DS_Store
